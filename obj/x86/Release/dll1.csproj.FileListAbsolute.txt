@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\dll1\bin\x86\Release\dll1.dll
+C:\Users\Artem\source\repos\dll1\bin\x86\Release\dll1.pdb
+C:\Users\Artem\source\repos\dll1\bin\x86\Release\Microsoft.Build.Framework.xml
+C:\Users\Artem\source\repos\dll1\bin\x86\Release\Microsoft.Build.Utilities.Core.xml
+C:\Users\Artem\source\repos\dll1\bin\x86\Release\System.Collections.Immutable.xml
+C:\Users\Artem\source\repos\dll1\obj\x86\Release\dll1.csproj.CopyComplete
+C:\Users\Artem\source\repos\dll1\obj\x86\Release\dll1.dll
+C:\Users\Artem\source\repos\dll1\obj\x86\Release\dll1.pdb
+C:\Users\Artem\source\repos\dll1\obj\x86\Release\dll1.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\dll1\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Artem\source\repos\dll1\bin\x86\Release\RestSharp.xml
+C:\Users\Artem\source\repos\dll1\obj\x86\Release\dll1.Properties.Resources.resources
+C:\Users\Artem\source\repos\dll1\obj\x86\Release\dll1.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\dll1\obj\x86\Release\dll1.csproj.Fody.CopyLocal.cache
